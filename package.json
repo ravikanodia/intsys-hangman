@@ -1,0 +1,17 @@
+{
+  "name": "intsys-hangman",
+  "version": "0.0.1",
+  "description": "Hangman solver",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test"
+  },
+  "author": "Ravi Kanodia",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "mocha": "^3.4.2",
+    "should": "^11.2.1",
+    "underscore": "^1.8.3",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
